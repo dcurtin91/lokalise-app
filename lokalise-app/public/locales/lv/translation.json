@@ -1,5 +1,8 @@
 {
   "main": {
-      "header": "Laipni lūdzam lietotnē!"
+      "header": "Laipni lūdzam lietotnē!",
+      "new_messages_zero": "Jums nav nevienas jaunas ziņas",
+      "new_messages_one": "Jums ir viena jauna ziņa",
+      "new_messages_other": "Jums ir {{count}} jaunas ziņas"
   }
 }

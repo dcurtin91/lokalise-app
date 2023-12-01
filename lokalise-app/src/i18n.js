@@ -13,5 +13,5 @@ i18n
   });
 
 
-
+i18n.changeLanguage('lv');
 export default i18n;
